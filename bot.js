@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name             Nitrotype Bot
+// @name             Nitro Type Bot 2.0
 // @match            https://www.nitrotype.com/race
 // @match            https://www.nitrotype.com/race/*
-// @author           adl212
+// @author           RedHawk
 // @run-at           document-start
 // @grant            none
-// @version          6.9.6
+// @version          2.0
 // ==/UserScript==
 var wpm = 90;
 var accuracy = 97;
