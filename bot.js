@@ -2,13 +2,13 @@
 // @name             Nitro Type Bot 2.0
 // @match            https://www.nitrotype.com/race
 // @match            https://www.nitrotype.com/race/*
-// @author           RedHawk
+// @author           NitroXLevels
 // @run-at           document-start
 // @grant            none
 // @version          2.0
 // ==/UserScript==
-var wpm = 90;
-var accuracy = 97;
+var wpm = 120;
+var accuracy = 100;
 const sockets = [];
 const nativeWebSocket = window.WebSocket;
 window.WebSocket = function(...args){
